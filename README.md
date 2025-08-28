@@ -39,8 +39,9 @@ Mobile Data (Bike & Truck)
 -   Mobile emission and weather data collected via bike and truck.
 -   Only the weather data is used. 
 -   Stored in stations/Bike_Data/ and stations/Truck_Data/.
--   [Link placeholder: Insert data collection documentation or storage
-    location]
+-   truck link (2022, 2023) : https://catalogue.ec.gc.ca/geonetwork/srv/eng/catalog.search#/metadata/e56ea8c3-1267-49a7-863b-8ae00eabf11f
+  	https://catalogue.ec.gc.ca/geonetwork/srv/eng/catalog.search#/metadata/5b90420e-70dc-482a-9407-394529095a19
+-   bike data link: https://borealisdata.ca/dataverse/wunchlab
 
 Stationary Weather Data
 
@@ -50,8 +51,6 @@ Stationary Weather Data
 -   Environment and Climate Change Canada (ECCC) Historical Weather Data
     — multiple stations (Toronto City, Centre Island, Airport, Oshawa,
     North York).
-
-    	ECCC Historical Climate Data Portal 
 	https://climate.weather.gc.ca/historical_data/search_historic_data_e.html
 
 GeoData
@@ -62,7 +61,7 @@ GeoData
 -   Toronto Open Data Portal
     -   Parks, Waterbodies, Land Cover, Elevation (TIN), etc.
     -   https://open.toronto.ca/
--   Land Cover Raster / Vector Conversion (pre-processed into
+-   Land Cover (pre-processed into
     GeoData/landcover.geojson). Included in repo.
 
 ------------------------------------------------------------------------
